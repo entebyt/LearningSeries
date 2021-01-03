@@ -7,7 +7,7 @@
 - **IaaC Using Terraform** - Atul Sharma - To be decided
 - **Observer Design Pattern: How To implement in java (will be covering the Design pattern and then implementation using java classes)** - Deepak Singh - 4 Dec
 - **Another Design Pattern: yet to decide** - Deepak Singh - 11 Dec
-
+- **React Native Web + NextJs** - To be decided
 ## Done
 - **Google Optimizer** - Awantika Dwivedi - 16th Oct - https://www.corevaluetech.com/blog - https://www.corevaluetech.com/blog/google-website-optimizer-testing-and-personalization - https://youtu.be/WqYqbrPwTOY
 - **Concurrency in Transaction** - Nandita Hans - 9th October - https://www.corevaluetech.com/blog/concurrency-transaction - https://youtu.be/AUhsjFqKwpM
